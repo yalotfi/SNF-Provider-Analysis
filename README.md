@@ -9,7 +9,7 @@ Read about [the data here](https://www.cms.gov/Research-Statistics-Data-and-Syst
   
 **Purpose:**
 
-The cool bit about SAF and HCRIS data is that one can create a workflow that replicates something called the PEPPER report.  It is a standardized methodology that individual providers can use to identify areas of potential improper billing.  The problem is that only that provider can see its actual report.  So given the billing and coding data from SAF and HCRIS, you can reverse engineer the PEPPER report for not just one provider, but entire parent-child networks (like management companies) or proivder types (Inpatient vs SNF).  By identifying potential cases of improper billing or coding, an analyst can by extension find relative vulnerability to litigation.
+The cool bit about SAF and HCRIS data is that one can create a workflow that replicates something called the [PEPPER report](https://www.pepperresources.org/Portals/0/Documents/PEPPER/SNF/SNFPEPPERUsersGuide_Edition4.pdf).  It is a standardized methodology that individual providers can use to identify areas of potential improper billing.  The problem is that only that provider can see its actual report.  So given the billing and coding data from SAF and HCRIS, you can reverse engineer the PEPPER report for not just one provider, but entire parent-child networks (like management companies) or proivder types (Inpatient vs SNF).  By identifying potential cases of improper billing or coding, an analyst can by extension find relative vulnerability to litigation.
   
 **Method:**
 
